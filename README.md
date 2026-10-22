@@ -1,10 +1,10 @@
-<p align="center"><img src="assets/realme-logo.png" alt="RealMe" width="300"></p>
+<p align="center"><img src="assets/realme-logo.png" alt="RealMe" width="260"></p>
 
 ---
 
 <div align="center">
 
-<h1>RealMe: Immersive Volumetric Video from Minimal Captures</h1>
+<h1>Immersive Volumetric Video from Minimal Captures</h1>
 
 <p>
 <a href="https://zicx.top/"><strong>Chenxu Zhou</strong><sup>1</sup></a> ·
@@ -30,7 +30,9 @@
 
 </div>
 
-![RealMe teaser showing volumetric video results](assets/teaser.webp)
+[![Watch the RealMe demo video](assets/demo-cover-dark.png)](https://raw.githubusercontent.com/cxzhou35/projects/main/realme/assets/videos/demo-held.mp4)
+
+[▶ Watch the demo video](https://raw.githubusercontent.com/cxzhou35/projects/main/realme/assets/videos/demo-held.mp4)
 
 ## 📜 News
 
