@@ -43,7 +43,7 @@ RealMe creates immersive volumetric video from sparse, low-resolution multi-view
 
 ## 💻 Code
 
-The code is currently undergoing internal review. We will release it once the review is complete. Stay tuned.
+The code is currently undergoing internal review. We will release it once the review is complete. Stay tuned. 🙌
 
 ## 📝 Citation
 
