@@ -1,7 +1,5 @@
 <p align="center"><img src="assets/realme-logo.png" alt="RealMe" width="260"></p>
 
----
-
 <div align="center">
 
 <h1>Immersive Volumetric Video from Minimal Captures</h1>
@@ -42,6 +40,10 @@
 RealMe creates immersive volumetric video from sparse, low-resolution multi-view captures. It builds a coarse 4D representation and derives auxiliary videos from novel-view renders and input crops. A high-resolution video diffusion model uses these videos to generate 2K, 4D-consistent enhanced views, which are combined with the original captures to refine the final 4D representation.
 
 ![RealMe pipeline: auxiliary data construction, video diffusion enhancement, and 4D reconstruction](assets/pipeline.webp)
+
+## 💻 Code
+
+The code is currently undergoing internal review. We will release it once the review is complete. Stay tuned.
 
 ## 📝 Citation
 
