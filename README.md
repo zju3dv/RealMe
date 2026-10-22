@@ -23,7 +23,7 @@
 <a href="https://arxiv.org/abs/2610.30023"><img src="assets/badges/paper.svg" alt="Paper: arXiv"></a>
 <a href="https://zju3dv.github.io/realme/"><img src="assets/badges/project-page.svg" alt="Project page"></a>
 <a href="https://github.com/zju3dv/RealMe"><img src="assets/badges/code.svg" alt="Code: GitHub"></a>
-<a href="https://zju3dv.github.io/realme/#demo"><img src="assets/badges/demo-video.svg" alt="Demo video"></a>
+<a href="https://zju3dv.github.io/realme/#demo"><img src="assets/badges/demo-youtube.svg" alt="Demo video"></a>
 <img src="assets/badges/data.svg" alt="Data: coming soon">
 </p>
 
@@ -62,3 +62,7 @@ If you find this code useful for your research, please use the following BibTeX 
 ## 💌 Contact
 
 If you have any question, please feel free to contact [Chenxu Zhou](mailto:cxzhou35@zju.edu.cn) or [Github issues](https://github.com/zju3dv/RealMe/issues).
+
+## ⚖️ License
+
+**License:** [Project Registration License (PRL) v1.0](LICENSE).

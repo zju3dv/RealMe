@@ -1,1 +1,35 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="97" height="20" role="img" aria-label="Paper: arXiv"><title>Paper: arXiv</title><filter id="blur"><feGaussianBlur stdDeviation="16"/></filter><linearGradient id="s" x2="0" y2="100%"><stop offset="0" stop-color="#bbb" stop-opacity=".1"/><stop offset="1" stop-opacity=".1"/></linearGradient><clipPath id="r"><rect width="97" height="20" rx="3"/></clipPath><g clip-path="url(#r)"><rect width="58" height="20" fill="#555"/><rect x="58" width="39" height="20" fill="#b31b1b"/><rect width="97" height="20" fill="url(#s)"/></g><g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110"><image x="5" y="3" width="14" height="14" href="data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPmFyWGl2PC90aXRsZT48cGF0aCBkPSJNMy44NDIzIDBhMS4wMDM3IDEuMDAzNyAwIDAgMC0uOTIyLjYwNzhjLS4xNTM2LjM2ODctLjA0MzguNjI3NS4yOTM4IDEuMTExM2w2LjkxODUgOC4zNTk3LTEuMDIyMyAxLjEwNThhMS4wMzkzIDEuMDM5MyAwIDAgMCAuMDAzIDEuNDIyOWwxLjIyOTIgMS4zMTM1LTUuNDM5MSA2LjQ0NDRjLS4yODAzLjI5OS0uNDUzOC44MjMtLjI5NzEgMS4xOTg2YTEuMDI1MyAxLjAyNTMgMCAwIDAgLjk1ODUuNjM1LjkxMzMuOTEzMyAwIDAgMCAuNjg5MS0uMzQwNWw1Ljc4My02LjEyNiA3LjQ5MDIgOC4wMDUxYS44NTI3Ljg1MjcgMCAwIDAgLjY4MzUuMjU5Ny45NTc1Ljk1NzUgMCAwIDAgLjg3NzctLjYxMzhjLjE1NzctLjM3Ny0uMDE3LS43NTAyLS4zMDYtMS4xNDA3bC03LjA1MTgtOC4zNDE4IDEuMDYzMi0xLjEzYS45NjI2Ljk2MjYgMCAwIDAgLjAwODktMS4zMTY1TDQuNjMzNi40NjM5cy0uMzczMy0uNDUzNS0uNzY4LS40NjN6bTAgLjI3MmguMDE2NmMuMjE3OS4wMDUyLjQ4NzQuMjcxNS41NjQ0LjM2MzlsLjAwNS4wMDYuMDA1Mi4wMDU1IDEwLjE2OSAxMC45OTA1YS42OTE1LjY5MTUgMCAwIDEtLjAwNzIuOTQ1bC0xLjA2NjYgMS4xMzMtMS40OTgyLTEuNzcyNC04LjU5OTQtMTAuMzljLS4zMjg2LS40NzItLjM1Mi0uNjE4My0uMjU5Mi0uODQxYS43MzA3LjczMDcgMCAwIDEgLjY3MDQtLjQ0MDFabTE0LjM0MSAxLjU3MDFhLjg3Ny44NzcgMCAwIDAtLjY1NTQuMjQxOGwtNS42OTYyIDYuMTU4NCAxLjY5NDQgMS44MzE5IDUuMzA4OS02LjUxMzhjLjMyNTEtLjQzMzUuNDc5LS42NjAzLjMyNDctMS4wMjkyYTEuMTIwNSAxLjEyMDUgMCAwIDAtLjk3NjMtLjY4OXptLTcuNjU1NyAxMi4yODIzIDEuMzE4NiAxLjQxMzUtNS43ODY0IDYuMTI5NWEuNjQ5NC42NDk0IDAgMCAxLS40OTU5LjI2Ljc1MTYuNzUxNiAwIDAgMS0uNzA2LS40NjY5Yy0uMTExOS0uMjY4Mi4wMzU5LS42ODY0LjI0NDItLjkwODNsLjAwNTEtLjAwNTUuMDA0Ny0uMDA1NXoiLz48L3N2Zz4="/><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="385" y="150" fill-opacity=".8" filter="url(#blur)" textLength="310">Paper</text><text x="385" y="150" fill-opacity=".3" textLength="310">Paper</text></g><text x="385" y="140" textLength="310">Paper</text></g><g transform="scale(.1)"><g aria-hidden="true" fill="#010101"><text x="765" y="150" fill-opacity=".8" filter="url(#blur)" textLength="290">arXiv</text><text x="765" y="150" fill-opacity=".3" textLength="290">arXiv</text></g><text x="765" y="140" textLength="290">arXiv</text></g></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="97" height="20" role="img" aria-label="Paper: arXiv">
+  <title>Paper: arXiv</title>
+  <filter id="blur">
+    <feGaussianBlur stdDeviation="16" />
+  </filter>
+  <linearGradient id="s" x2="0" y2="100%">
+    <stop offset="0" stop-color="#bbb" stop-opacity=".1" />
+    <stop offset="1" stop-opacity=".1" />
+  </linearGradient>
+  <clipPath id="r">
+    <rect width="97" height="20" rx="3" />
+  </clipPath>
+  <g clip-path="url(#r)">
+    <rect width="58" height="20" fill="#555" />
+    <rect x="58" width="39" height="20" fill="#b31b1b" />
+    <rect width="97" height="20" fill="url(#s)" />
+  </g>
+  <g fill="#fff" text-anchor="middle" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" text-rendering="geometricPrecision" font-size="110">
+    <path d="M3.8423 0a1.0037 1.0037 0 0 0-.922.6078c-.1536.3687-.0438.6275.2938 1.1113l6.9185 8.3597-1.0223 1.1058a1.0393 1.0393 0 0 0 .003 1.4229l1.2292 1.3135-5.4391 6.4444c-.2803.299-.4538.823-.2971 1.1986a1.0253 1.0253 0 0 0 .9585.635.9133.9133 0 0 0 .6891-.3405l5.783-6.126 7.4902 8.0051a.8527.8527 0 0 0 .6835.2597.9575.9575 0 0 0 .8777-.6138c.1577-.377-.017-.7502-.306-1.1407l-7.0518-8.3418 1.0632-1.13a.9626.9626 0 0 0 .0089-1.3165L4.6336.4639s-.3733-.4535-.768-.463zm0 .272h.0166c.2179.0052.4874.2715.5644.3639l.005.006.0052.0055 10.169 10.9905a.6915.6915 0 0 1-.0072.945l-1.0666 1.133-1.4982-1.7724-8.5994-10.39c-.3286-.472-.352-.6183-.2592-.841a.7307.7307 0 0 1 .6704-.4401Zm14.341 1.5701a.877.877 0 0 0-.6554.2418l-5.6962 6.1584 1.6944 1.8319 5.3089-6.5138c.3251-.4335.479-.6603.3247-1.0292a1.1205 1.1205 0 0 0-.9763-.689zm-7.6557 12.2823 1.3186 1.4135-5.7864 6.1295a.6494.6494 0 0 1-.4959.26.7516.7516 0 0 1-.706-.4669c-.1119-.2682.0359-.6864.2442-.9083l.0051-.0055.0047-.0055z" fill="#fff" transform="translate(5 3) scale(0.583333)" />
+    <g transform="scale(.1)">
+      <g aria-hidden="true" fill="#010101">
+        <text x="385" y="150" fill-opacity=".8" filter="url(#blur)" textLength="310">Paper</text>
+        <text x="385" y="150" fill-opacity=".3" textLength="310">Paper</text>
+      </g>
+      <text x="385" y="140" textLength="310">Paper</text>
+    </g>
+    <g transform="scale(.1)">
+      <g aria-hidden="true" fill="#010101">
+        <text x="765" y="150" fill-opacity=".8" filter="url(#blur)" textLength="290">arXiv</text>
+        <text x="765" y="150" fill-opacity=".3" textLength="290">arXiv</text>
+      </g>
+      <text x="765" y="140" textLength="290">arXiv</text>
+    </g>
+  </g>
+</svg>
