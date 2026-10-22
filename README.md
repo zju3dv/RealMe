@@ -25,14 +25,13 @@
 <a href="https://arxiv.org/abs/2610.30023"><img src="assets/badges/paper.svg" alt="Paper: arXiv"></a>
 <a href="https://zju3dv.github.io/realme/"><img src="assets/badges/project-page.svg" alt="Project page"></a>
 <a href="https://github.com/zju3dv/RealMe"><img src="assets/badges/code.svg" alt="Code: GitHub"></a>
+<a href="https://zju3dv.github.io/realme/#demo"><img src="assets/badges/demo-video.svg" alt="Demo video"></a>
 <img src="assets/badges/data.svg" alt="Data: coming soon">
 </p>
 
 </div>
 
-[![Watch the RealMe demo video](assets/demo-cover-dark.png)](https://raw.githubusercontent.com/cxzhou35/projects/main/realme/assets/videos/demo-held.mp4)
-
-[▶ Watch the demo video](https://raw.githubusercontent.com/cxzhou35/projects/main/realme/assets/videos/demo-held.mp4)
+![RealMe teaser showing volumetric video results](assets/teaser.webp)
 
 ## 📜 News
 
